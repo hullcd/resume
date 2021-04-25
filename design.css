@@ -5,7 +5,20 @@ h1{
   
 }
 
+/*header*/
+
+.header {
+  width: 100%;
+  height: 200px;
+}
+
 .information{
-  display: inline-block;
+  display: flex;
   align-content: center;
+  flex-direction: column;
+}
+
+.description {
+  padding-top: 25px;
+  width: 100%;
 }
