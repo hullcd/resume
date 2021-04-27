@@ -18,7 +18,13 @@ h1{
   flex-direction: column;
 }
 
+/*main body*/
+
 .description {
-  padding-top: 25px;
+  padding: 10px 0px;
   width: 100%;
+}
+
+.portfolio {
+  padding: 10px 0px ;
 }
