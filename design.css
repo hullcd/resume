@@ -28,3 +28,8 @@ h1{
 .portfolio {
   padding: 10px 0px ;
 }
+
+.history {
+  display: inline-grid;
+
+}
